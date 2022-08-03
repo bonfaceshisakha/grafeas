@@ -14,7 +14,7 @@ require (
 	github.com/grpc-ecosystem/grpc-gateway/v2 v2.7.3
 	github.com/in-toto/in-toto-golang v0.3.4-0.20211211042327-af1f9fb822bf
 	github.com/lib/pq v1.10.6
-	github.com/rs/cors v1.7.0
+	github.com/rs/cors v1.8.2
 	github.com/spf13/viper v1.8.1
 	golang.org/x/net v0.0.0-20211112202133-69e39bad7dc2
 	google.golang.org/genproto v0.0.0-20220118154757-00ab72f36ad5
