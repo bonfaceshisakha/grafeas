@@ -9,7 +9,7 @@ require (
 	github.com/fernet/fernet-go v0.0.0-20191111064656-eff2850e6001
 	github.com/golang/protobuf v1.5.2
 	github.com/google/go-cmp v0.5.8
-	github.com/google/logger v1.1.0
+	github.com/google/logger v1.1.1
 	github.com/google/uuid v1.1.2
 	github.com/grpc-ecosystem/grpc-gateway/v2 v2.11.2
 	github.com/in-toto/in-toto-golang v0.3.4-0.20211211042327-af1f9fb822bf
