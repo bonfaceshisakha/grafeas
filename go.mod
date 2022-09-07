@@ -13,7 +13,7 @@ require (
 	github.com/google/uuid v1.1.2
 	github.com/grpc-ecosystem/grpc-gateway/v2 v2.11.2
 	github.com/in-toto/in-toto-golang v0.3.4-0.20211211042327-af1f9fb822bf
-	github.com/lib/pq v1.10.6
+	github.com/lib/pq v1.10.7
 	github.com/rs/cors v1.8.2
 	github.com/spf13/viper v1.8.1
 	golang.org/x/net v0.0.0-20220624214902-1bab6f366d9e
