@@ -3,7 +3,7 @@ module github.com/grafeas/grafeas
 go 1.18
 
 require (
-	github.com/antlr/antlr4 v0.0.0-20201029161626-9a95f0cc3d7c
+	github.com/antlr/antlr4/runtime/Go/antlr v1.4.10
 	github.com/boltdb/bolt v1.3.1
 	github.com/cockroachdb/cmux v0.0.0-20170110192607-30d10be49292
 	github.com/fernet/fernet-go v0.0.0-20191111064656-eff2850e6001
